@@ -32,5 +32,5 @@ This notebook implements a full **Structure-from-Motion (SfM)** pipeline for 3D 
 - The current implementation uses **grayscale images** for feature detection.
 - Camera intrinsics are assumed to be known and fixed (defined via matrix `K`).
 - Bundle adjustment via **GTSAM** significantly improves reconstruction accuracy.
-
+- The project file might be too big to display in GitHub, please download to check the codes
 ---
